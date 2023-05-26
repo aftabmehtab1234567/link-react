@@ -17,15 +17,15 @@ const Aboutus = () => {
 <div className="container overflow-hidden text-center mt-5 ">
   <div className="row gx-5">
     <div className="col-md-4 col-sm-12 col-xs-12 cabile">
-     <div className="p-3 mt-5"><img src={coma}/>
+     <div className="p-3 mt-5 "><img src={coma}/>
      <div className="mt-5">DO IT FOR ME LLC provided a cost-effective IT solution that transformed our lending business</div>
-     <div className="p-3 mt-5 text-white fs-4"><img src={testimonial} alt="" />Khasish Sachdeva</div>
+     <div className="p-3 mt-5 text-white fs-6 "><img src={testimonial} alt="" />Khasish Sachdeva</div>
      </div>
     </div>
     <div className="col-md-4 col-sm-12 col-xs-12 cabile">
       <div className="p-3"><div className="p-3"><img src={coma}/>
      <div className="mt-5">DO IT FOR ME LLC provided a cost-effective IT solution that transformed our lending business</div>
-     <div className="p-3 mt-5 text-white fs-4"><img src={testimonial} alt="" />Khasish Sachdeva</div>
+     <div className="p-3 mt-5 text-white fs-6"><img src={testimonial} alt="" />Khasish Sachdeva</div>
      </div>
      </div>
     </div>
@@ -33,7 +33,7 @@ const Aboutus = () => {
       <div className="p-3">
       <div className="p-3"><img src={coma}/>
      <div className="mt-5">DO IT FOR ME LLC provided a cost-effective IT solution that transformed our lending business</div>
-     <div className="p-3 mt-5 text-white fs-4"><img src={testimonial} alt="" />Khasish Sachdeva</div>
+     <div className="p-3 mt-5 text-white fs-6  "><img src={testimonial} alt="" />Khasish Sachdeva</div>
      </div>
       </div>
     </div>

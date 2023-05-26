@@ -9,7 +9,7 @@ const Services = () => {
     <>
     <div className="text-center mt-5 fs-1 fw-bold text-white">Services</div>
     <div className="card-group container mt-5">
-  <div className="card cabile col-sm-12 col-md-4 col-xs-12 col-lg-4">
+  <div className="card cabile ">
     <img src={card3} className="card-img-top" alt="..."/>
     <div className="card-body bg">
       <h5 className="card-title text-white text-center">Finance Consulting</h5>
@@ -38,7 +38,7 @@ const Services = () => {
       <p className="card-text text-white">We are a full-service IT company offering a range of services, including software development, web design, and IT support.</p>
       <div className="text-center mt-5" ><button type="button" className="btn btn-grad mt-5 fs-2">Read more</button></div>
     </div>
-    <div className="card-footer col-sm-12 col-md-4 col-xs-12 col-lg-4">
+    <div className="card-footer">
       <small className="text-body-secondary">Last updated 3 mins ago</small>
     </div>
   </div>

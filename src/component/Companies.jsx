@@ -13,7 +13,7 @@ const Companies = () => {
      </div>
     </div>
     <div className="col">
-      <div className="p-3"><img src={partnerimg} width="400px"/></div>
+      <div className="p-3"><img src={partnerimg} width="330px"/></div>
     </div>
   </div>
 </div>

@@ -19,7 +19,7 @@ const Partner = () => {
       <div className="p-3"><img src={partner3}/></div>
     </div>
     <div className="col cabile  col-sm-6 col-xs-6 ">
-      <div className="p-3"><img src={partner4} width="150px"/></div>
+      <div className="p-3"><img src={partner4} width="165px"/></div>
     </div>
     <div className="col cabile  col-sm-12 col-xs-12">
       <div className="p-3"><img src={partner5}/></div>

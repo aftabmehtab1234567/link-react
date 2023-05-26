@@ -11,7 +11,7 @@ const Middle1 = () => {
      <div class="p-3"><button type="button" class="btn btn-#272727 text-white"><img src={Fill} alt="" />Do it for me.LLC</button></div>
      <div class="text-white fs-1 fw-bold ">The Next<span class="border-info text-info fw-light fs-3 get">GET Started<img src={Arrow}/></span></div>
      <div class=" fs-1 fw-bold" id="gen">Generation</div>
-     <div class="text-white fs-1 fw-bold ">Data,Investment,Finance,and<br /> Service Provider</div>
+     <div class="text-white fs-1 fw-bold ">Data,Investment,<br/>Finance,and<br /> Service Provider</div>
      <p class="mt-5 ">The company specializes in solution providing to problems in the Lending industry, whether<br/> it be backend operations resource management or providing a working IT solution to lenders<br/> in the US.</p>
     </div>
     <div class="col ">
