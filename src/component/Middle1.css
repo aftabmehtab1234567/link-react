@@ -6,12 +6,12 @@
     
 }
 .get{
-    Width:140px;
+        
 padding:40px;
 border:2px solid aqua;
-margin-left:100px;
+
 border-radius:50%;
-font-size: 72px;
+    
 background: -webkit-linear-gradient(#DEF9FA,
 
 #BEF3F5,
@@ -68,6 +68,8 @@ border-radius:2%;
     border-radius: 10px;
     
   }
-
+.mt{
+    margin-top:20%;
+}
   
 

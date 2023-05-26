@@ -4,7 +4,7 @@ import navbar from './navbar.css';
 const Navbar = () => {
   return (
     <>
-            <section id="header" className="container navbg">
+            <div id="header" className="container navbg">
                 <div className="row">
                     <div className="col-10 mx-auto">
                         <nav className="navbar navbar-expand-lg bg-dark fixed-top ">
@@ -43,7 +43,7 @@ const Navbar = () => {
                     </div>
                 </div>
                 
-            </section>
+            </div>
         </>
   )
 }
