@@ -1,0 +1,74 @@
+.circle{
+    margin-left:220px;
+    height:200px;
+    border:2px solid red;
+    border-radius:50%;
+    
+}
+.get{
+    Width:140px;
+padding:40px;
+border:2px solid aqua;
+margin-left:100px;
+border-radius:50%;
+font-size: 72px;
+background: -webkit-linear-gradient(#DEF9FA,
+
+#BEF3F5,
+
+#9DEDF0,
+
+#7DE7EB,
+
+#5CE1E6,
+
+#33BBCF
+);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+#bg{
+    background-image:linear-gradient(
+    
+    #6D6D6D,
+    
+    #11101D
+);
+  
+border-radius:2%;
+    
+}
+#gen{
+    
+    background: -webkit-linear-gradient(#DEF9FA,
+    
+    #BEF3F5,
+    
+    #9DEDF0,
+    
+    #7DE7EB,
+    
+    #5CE1E6,
+    
+    #33BBCF
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #50C9C3 0%, #96DEDA  51%, #50C9C3  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    
+    border-radius: 10px;
+    
+  }
+
+  
+

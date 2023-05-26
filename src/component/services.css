@@ -1,0 +1,7 @@
+.bg{
+    background-color: #00040f;
+}
+.cabile:hover{
+    background-color: grey;
+    border-radius:5%;
+}
