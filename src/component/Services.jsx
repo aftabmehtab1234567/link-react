@@ -1,6 +1,6 @@
 import React from "react";
 import services from './services.css';
-import card3 from '../image/card3.jpg';
+import card3 from '../image/card3.png';
 import card2 from '../image/card2.png';
 import card1 from '../image/card1.png';
 
