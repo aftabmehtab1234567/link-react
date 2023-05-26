@@ -58,8 +58,7 @@ border-radius:2%;
          
 .btn-grad {
     background-image: linear-gradient(to right, #50C9C3 0%, #96DEDA  51%, #50C9C3  100%);
-    margin: 10px;
-    padding: 15px 45px;
+    
     text-align: center;
     text-transform: uppercase;
     transition: 0.5s;

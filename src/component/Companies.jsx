@@ -9,11 +9,11 @@ const Companies = () => {
     <div className="col">
      <div className="p-3 fs-1 text-white fw-bold">The Companies We<br/> Build
      <p className="fs-6 fw-light">We build more than 30 companies worldwide including WorldModelHunt, BragSocial,<br/> Laymenlitigation,  and more.  </p>
-     <button type="button" className="btn btn-grad mt-5">View more</button>
+     <button type="button" className="btn btn-grad mt-5 fs-2">View more</button>
      </div>
     </div>
     <div className="col">
-      <div className="p-3"><img src={partnerimg} width="241px"/></div>
+      <div className="p-3"><img src={partnerimg}/></div>
     </div>
   </div>
 </div>

@@ -14,7 +14,7 @@ const Services = () => {
     <div className="card-body bg">
       <h5 className="card-title text-white text-center">Finance Consulting</h5>
       <p className="card-text text-white">DO IT FOR ME LLC offers Finance Consulting services to Merchants, Lenders/Funders/Investors, and other businesses seeking expert guidance on financial matters.</p>
-     <div className="text-center " ><button type="button" className="btn btn-grad mt-5">Read more</button></div>
+     <div className="text-center " ><button type="button" className="btn btn-grad mt-5 fs-2">Read more</button></div>
     </div>
     <div className="card-footer">
       <small className="text-body-secondary">Last updated 3 mins ago</small>
@@ -25,7 +25,7 @@ const Services = () => {
     <div className="card-body bg">
       <h5 className="card-title text-white text-center">Business Consulting</h5>
       <p className="card-text text-white">DO IT FOR ME LLC provides Business Consulting to Merchants, Lenders/Funders/Investors, and other businesses.</p>
-      <div className="text-center mt-5" ><button type="button" className="btn btn-grad mt-5">Read more</button></div>
+      <div className="text-center mt-5" ><button type="button" className="btn btn-grad mt-5 fs-2">Read more</button></div>
     </div>
     <div className="card-footer">
       <small className="text-body-secondary">Last updated 3 mins ago</small>
@@ -36,7 +36,7 @@ const Services = () => {
     <div className="card-body bg">
       <h5 className="card-title  text-white text-center">Full IT Services</h5>
       <p className="card-text text-white">We are a full-service IT company offering a range of services, including software development, web design, and IT support.</p>
-      <div className="text-center mt-5" ><button type="button" className="btn btn-grad mt-5">Read more</button></div>
+      <div className="text-center mt-5" ><button type="button" className="btn btn-grad mt-5 fs-2">Read more</button></div>
     </div>
     <div className="card-footer col-sm-12 col-md-4 col-xs-12 col-lg-4">
       <small className="text-body-secondary">Last updated 3 mins ago</small>

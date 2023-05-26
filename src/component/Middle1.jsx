@@ -15,7 +15,7 @@ const Middle1 = () => {
      <p class="mt-5 ">The company specializes in solution providing to problems in the Lending industry, whether<br/> it be backend operations resource management or providing a working IT solution to lenders<br/> in the US.</p>
     </div>
     <div class="col ">
-      <div class="p-3"><img src={image1} width="241px"/></div>
+      <div class="p-3"><img src={image1}/></div>
     </div>
   </div>
 </div>

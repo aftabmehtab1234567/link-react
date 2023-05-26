@@ -14,7 +14,7 @@ const Data = () => {
         business grow, in a shorter period being a less expensive solution provider to your business growth – DIFM.LLC. Finance and IT 
         Solutions provider.</p>
         <button type="button" className="btn btn-grad
-        mt-5">Get Started</button>
+        mt-5 fs-2">Get Started</button>
        </div>
       </div>
       <div className="col mt-5">
